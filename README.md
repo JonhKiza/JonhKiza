@@ -48,12 +48,8 @@ REST Assured · Postman · SQL
 
 My professional portfolio showcasing my automation expertise, technical skills, and independent projects.
 
-[Explore my portfolio →](https://jonhkiza.github.io/qa-automation-portfolio/)
 
-[📄 Download My CV (PDF)](
-https://jonhkiza.github.io/qa-automation-portfolio/assets/documents/Ricardo_Ojeda_QA_Automation_CV.pdf
-)
-
+[🌐 Portfolio](https://jonhkiza.github.io/qa-automation-portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/ricardo-emilio-ojeda-5b72b01a1) · [📄 Download My CV](https://github.com/JonhKiza/qa-automation-portfolio/blob/main/assets/documents/Ricardo_Ojeda_QA_Automation_CV-Last.pdf)
 ---
 
 <div align="center">
