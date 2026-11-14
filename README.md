@@ -1,5 +1,20 @@
-## Hi there 👋
+## 
 
+QA Automation Portfolio
+Welcome to my QA Automation portfolio.
+
+About Me
+QA Automation Engineer focused on building scalable and maintainable test automation solutions.
+
+Technical Stack
+Java
+Selenium WebDriver
+Cucumber / Gherkin
+Appium
+RestAssured
+Jenkins
+Docker
+Git
 <!--
 **JonhKiza/JonhKiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
