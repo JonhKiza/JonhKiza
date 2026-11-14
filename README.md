@@ -6,8 +6,23 @@
 
 *Engineering Quality Through Automation.*
 
-[🌐 Portfolio](https://jonhkiza.github.io/qa-automation-portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/ricardo-emilio-ojeda-5b72b01a1)
 
+<div align="center">
+
+<a href="https://jonhkiza.github.io/qa-automation-portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore-101B2D?style=for-the-badge&logo=googlechrome&logoColor=00D4FF" alt="Portfolio">
+</a>
+<a href="https://github.com/JonhKiza">
+  <img src="https://img.shields.io/badge/GITHUB-Profile-101B2D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/ricardo-emilio-ojeda-5b72b01a1">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
+</a>
+<a href="https://github.com/JonhKiza/qa-automation-portfolio/raw/refs/heads/main/assets/documents/Ricardo_Ojeda_QA_Automation_CV-Last.pdf?download=1">
+  <img src="https://img.shields.io/badge/CV-Download_PDF-101B2D?style=for-the-badge&logo=adobeacrobatreader&logoColor=00D4FF" alt="Download CV">
+</a>
+
+</div>
 </div>
 
 ---
@@ -24,15 +39,22 @@ I am passionate about software quality, engineering efficiency, continuous impro
 
 **Automation & Programming**
 
-Java · Selenium WebDriver · Appium · Cucumber · Gherkin · Maven · TestNG
 
-**CI/CD & DevOps**
+<h2 align="center">Technical Stack</h2>
 
-Jenkins · Git · GitHub · Docker · CI/CD Pipelines
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,selenium,gherkin,maven,jenkins,docker,git,github,postman,mysql&theme=dark&perline=5"
+    alt="Technical Skills"
+  />
+</p>
 
-**API & Database Testing**
+<p align="center">
+  <strong>Also working with:</strong>
+  Appium · TestNG · REST Assured · SQL
+</p>
 
-REST Assured · Postman · SQL
+
 
 ## Areas of Interest
 
@@ -48,9 +70,22 @@ REST Assured · Postman · SQL
 
 My professional portfolio showcasing my automation expertise, technical skills, and independent projects.
 
+<div align="center">
 
-[🌐 Portfolio](https://jonhkiza.github.io/qa-automation-portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/ricardo-emilio-ojeda-5b72b01a1) · [📄 Download My CV (PDF)](https://github.com/JonhKiza/qa-automation-portfolio/raw/refs/heads/main/assets/documents/Ricardo_Ojeda_QA_Automation_CV-Last.pdf?download=1)
----
+<a href="https://jonhkiza.github.io/qa-automation-portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore-101B2D?style=for-the-badge&logo=googlechrome&logoColor=00D4FF" alt="Portfolio">
+</a>
+<a href="https://github.com/JonhKiza">
+  <img src="https://img.shields.io/badge/GITHUB-Profile-101B2D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/ricardo-emilio-ojeda-5b72b01a1">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
+</a>
+<a href="https://github.com/JonhKiza/qa-automation-portfolio/raw/refs/heads/main/assets/documents/Ricardo_Ojeda_QA_Automation_CV-Last.pdf?download=1">
+  <img src="https://img.shields.io/badge/CV-Download_PDF-101B2D?style=for-the-badge&logo=adobeacrobatreader&logoColor=00D4FF" alt="Download CV">
+</a>
+
+</div>
 
 <div align="center">
 
