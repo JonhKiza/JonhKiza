@@ -50,6 +50,10 @@ My professional portfolio showcasing my automation expertise, technical skills, 
 
 [Explore my portfolio →](https://jonhkiza.github.io/qa-automation-portfolio/)
 
+[📄 Download My CV (PDF)](
+https://jonhkiza.github.io/qa-automation-portfolio/assets/documents/Ricardo_Ojeda_QA_Automation_CV.pdf
+)
+
 ---
 
 <div align="center">
