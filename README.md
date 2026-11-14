@@ -93,6 +93,12 @@ My professional portfolio showcasing my automation expertise, technical skills, 
 
 </div>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JonhKiza&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+
 <!-- Add the CV download link here after uploading the English PDF to the portfolio repository. -->
 <!--
 **JonhKiza/JonhKiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
